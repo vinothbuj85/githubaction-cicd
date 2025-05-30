@@ -1,5 +1,6 @@
 name: To work on github first project 
-on: [push]
+on:
+  push
 jobs:
   build:
     runs-on: ubuntu-latest
